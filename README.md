@@ -35,13 +35,16 @@ O **Tradutor Simples** é um programa em Python que permite traduzir textos de f
 O programa solicitará que você digite o texto a ser traduzido e o idioma de destino (por exemplo, en para inglês ou es para espanhol). Para encerrar o programa, basta digitar sair.
 
 Exemplo de uso:
+
 Bem-vindo ao Tradutor Simples!
+
 Digite 'sair' para encerrar o programa.
 
 Digite o texto para traduzir: Olá, mundo!
 Digite o idioma de destino (ex.: 'en' para inglês, 'es' para espanhol): en
 
 Texto original: Olá, mundo!
+
 Tradução (en): Hello, world!
 
 
