@@ -36,15 +36,14 @@ O programa solicitará que você digite o texto a ser traduzido e o idioma de de
 
 Exemplo de uso:
 
+```bash
 Bem-vindo ao Tradutor Simples!
-
 Digite 'sair' para encerrar o programa.
 
 Digite o texto para traduzir: Olá, mundo!
 Digite o idioma de destino (ex.: 'en' para inglês, 'es' para espanhol): en
 
 Texto original: Olá, mundo!
-
 Tradução (en): Hello, world!
 
 
